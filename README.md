@@ -2,7 +2,7 @@
 <h1 align="center">NetFlixx -Movie Streaming Platform 🎬</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
-
+### Deployed Live Link https://netflixx-i7r9.onrender.com
 About This Project:
 
 -   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
