@@ -1,5 +1,5 @@
 
-<h1 align="center">NetFlixx -Movie Streaming platform 🎬</h1>
+<h1 align="center">NetFlixx -Movie Streaming Platform 🎬</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
